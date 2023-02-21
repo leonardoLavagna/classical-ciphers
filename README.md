@@ -4,8 +4,8 @@ We will develop some [classical ciphers](https://en.wikipedia.org/wiki/Classical
 - `./a` wich will execute the code obtained in the previous point.
 
 It is possible to try the code online:
-- `cesare.c`: https://onlinegdb.com/gBSX6kuJ0 (insert the message and then the key)
-- `vigenere.c`: https://onlinegdb.com/Dx-lPhhhW (just run it and it will encript a predefined message with key `ciao`)
+- `cesare.c`: https://onlinegdb.com/gBSX6kuJ0 (insert the message and then the key, an integer $k$, to obtain the ciphertext, then given the ciphertext insert $-k$ to decipher it).
+- `vigenere.c`: https://onlinegdb.com/Dx-lPhhhW (just run it and it will encrypt a predefined message `un matematico trasforma caffe in teoremi` with predefined key `ciao`, and also automatically decrpyt it).
 
 ### What's in here?
 Here you can find the following classical ciphers:
